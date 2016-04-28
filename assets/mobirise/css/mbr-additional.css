@@ -1,0 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+#ext_menu-3 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-3.mbr-navbar--stuck .mbr-navbar__section {
+  background: #ffffff;
+}
+#ext_menu-3 .mbr-navbar__hamburger {
+  color: #9365b8;
+}
+#ext_menu-3 .mbr-brand__name a {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 46px;
+}
